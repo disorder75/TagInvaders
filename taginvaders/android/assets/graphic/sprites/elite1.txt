@@ -1,0 +1,39 @@
+elite1.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 94, 2
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 186, 2
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 278, 2
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 370, 2
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1

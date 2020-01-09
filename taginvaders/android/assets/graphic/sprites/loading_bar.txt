@@ -1,0 +1,32 @@
+loading_bar.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+bar_background_margin_left
+  rotate: false
+  xy: 2, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+bar_background_margin_right
+  rotate: false
+  xy: 21, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+bar_margin_left
+  rotate: false
+  xy: 40, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+bar_margin_right
+  rotate: false
+  xy: 56, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,67 @@
+enemy1_red.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+biollante-(1)
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(2)
+  rotate: false
+  xy: 49, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(3)
+  rotate: false
+  xy: 96, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(4)
+  rotate: false
+  xy: 143, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(5)
+  rotate: false
+  xy: 190, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(6)
+  rotate: false
+  xy: 237, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(7)
+  rotate: false
+  xy: 284, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(8)
+  rotate: false
+  xy: 331, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollante-(9)
+  rotate: false
+  xy: 378, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,445 @@
+mothership_half.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+animazione giga0000
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0001
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0002
+  rotate: false
+  xy: 404, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0003
+  rotate: false
+  xy: 806, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0004
+  rotate: false
+  xy: 1208, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0005
+  rotate: false
+  xy: 1610, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0006
+  rotate: false
+  xy: 2012, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0007
+  rotate: false
+  xy: 2, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0008
+  rotate: false
+  xy: 404, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0009
+  rotate: false
+  xy: 806, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0010
+  rotate: false
+  xy: 1208, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0011
+  rotate: false
+  xy: 1610, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0012
+  rotate: false
+  xy: 2012, 204
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0013
+  rotate: false
+  xy: 2, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0014
+  rotate: false
+  xy: 404, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0015
+  rotate: false
+  xy: 806, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0016
+  rotate: false
+  xy: 1208, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0017
+  rotate: false
+  xy: 1610, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0018
+  rotate: false
+  xy: 2012, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0019
+  rotate: false
+  xy: 2012, 406
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0020
+  rotate: false
+  xy: 2, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0021
+  rotate: false
+  xy: 404, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0022
+  rotate: false
+  xy: 806, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0023
+  rotate: false
+  xy: 1208, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0024
+  rotate: false
+  xy: 1610, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0025
+  rotate: false
+  xy: 2012, 608
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0026
+  rotate: false
+  xy: 2, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0027
+  rotate: false
+  xy: 404, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0028
+  rotate: false
+  xy: 806, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0029
+  rotate: false
+  xy: 1208, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0030
+  rotate: false
+  xy: 1610, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0031
+  rotate: false
+  xy: 2012, 810
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0032
+  rotate: false
+  xy: 2, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0033
+  rotate: false
+  xy: 404, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0034
+  rotate: false
+  xy: 806, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0035
+  rotate: false
+  xy: 1208, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0036
+  rotate: false
+  xy: 1610, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0037
+  rotate: false
+  xy: 2012, 1012
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0038
+  rotate: false
+  xy: 2, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0039
+  rotate: false
+  xy: 2, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0040
+  rotate: false
+  xy: 404, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0041
+  rotate: false
+  xy: 806, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0042
+  rotate: false
+  xy: 1208, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0043
+  rotate: false
+  xy: 1610, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0044
+  rotate: false
+  xy: 2012, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0045
+  rotate: false
+  xy: 2012, 1214
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0046
+  rotate: false
+  xy: 2, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0047
+  rotate: false
+  xy: 404, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0048
+  rotate: false
+  xy: 806, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0049
+  rotate: false
+  xy: 806, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0050
+  rotate: false
+  xy: 1208, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0051
+  rotate: false
+  xy: 1610, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0052
+  rotate: false
+  xy: 2012, 1416
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0053
+  rotate: false
+  xy: 2, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0054
+  rotate: false
+  xy: 404, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0055
+  rotate: false
+  xy: 806, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0056
+  rotate: false
+  xy: 1208, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0057
+  rotate: false
+  xy: 1610, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0058
+  rotate: false
+  xy: 2012, 1618
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0059
+  rotate: false
+  xy: 2, 1820
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0060
+  rotate: false
+  xy: 404, 1820
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0061
+  rotate: false
+  xy: 806, 1820
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+animazione giga0062
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1

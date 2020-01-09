@@ -1,0 +1,102 @@
+block2.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+tile 1
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 2
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 3
+  rotate: false
+  xy: 70, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 4
+  rotate: false
+  xy: 104, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 5
+  rotate: false
+  xy: 138, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 6
+  rotate: false
+  xy: 172, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 7
+  rotate: false
+  xy: 206, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 8
+  rotate: false
+  xy: 240, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile 9
+  rotate: false
+  xy: 274, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile down
+  rotate: false
+  xy: 308, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile dx
+  rotate: false
+  xy: 342, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile sx
+  rotate: false
+  xy: 376, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile up
+  rotate: false
+  xy: 410, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 444, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

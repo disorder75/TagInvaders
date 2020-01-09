@@ -1,0 +1,11 @@
+mothership_full_flash.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+mothership_full_flash
+  rotate: false
+  xy: 2, 2
+  size: 400, 393
+  orig: 400, 393
+  offset: 0, 0
+  index: -1

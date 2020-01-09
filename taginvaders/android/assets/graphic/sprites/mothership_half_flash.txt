@@ -1,0 +1,11 @@
+mothership_half_flash.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+mothership_half_flash
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+enemy1_tp_teal.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+biollantetp-(2)
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(3)
+  rotate: false
+  xy: 2, 36
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(4)
+  rotate: false
+  xy: 2, 70
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(5)
+  rotate: false
+  xy: 2, 104
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(6)
+  rotate: false
+  xy: 2, 138
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(7)
+  rotate: false
+  xy: 2, 172
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+biollantetp-(8)
+  rotate: false
+  xy: 2, 206
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1

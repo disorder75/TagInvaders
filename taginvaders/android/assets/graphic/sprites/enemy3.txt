@@ -1,0 +1,32 @@
+enemy3.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+tentacoolio-(1)
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+tentacoolio-(2)
+  rotate: false
+  xy: 2, 36
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+tentacoolio-(3)
+  rotate: false
+  xy: 2, 70
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+tentacoolio-(4)
+  rotate: false
+  xy: 2, 36
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1

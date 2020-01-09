@@ -1,0 +1,39 @@
+player2_sx.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+protagonista2
+  rotate: false
+  xy: 2, 2
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+protagonista3
+  rotate: false
+  xy: 2, 50
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+protagonista4
+  rotate: false
+  xy: 2, 98
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+protagonista5
+  rotate: false
+  xy: 2, 146
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+protagonista6
+  rotate: false
+  xy: 2, 194
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1

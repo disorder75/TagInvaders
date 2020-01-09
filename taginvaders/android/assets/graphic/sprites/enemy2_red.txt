@@ -1,0 +1,46 @@
+enemy2_red.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+medusa-(1)
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusa-(2)
+  rotate: false
+  xy: 2, 36
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusa-(3)
+  rotate: false
+  xy: 2, 70
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusa-(4)
+  rotate: false
+  xy: 2, 104
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusa-(5)
+  rotate: false
+  xy: 2, 138
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusa-(6)
+  rotate: false
+  xy: 2, 172
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1

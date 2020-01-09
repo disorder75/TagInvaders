@@ -1,0 +1,46 @@
+enemy2_tp_violet.png
+format: RGBA8888
+filter: Linear,Nearest
+repeat: none
+medusatp-(1)
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusatp-(2)
+  rotate: false
+  xy: 2, 36
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusatp-(3)
+  rotate: false
+  xy: 2, 70
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusatp-(4)
+  rotate: false
+  xy: 2, 104
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusatp-(5)
+  rotate: false
+  xy: 2, 138
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+medusatp-(6)
+  rotate: false
+  xy: 2, 172
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
